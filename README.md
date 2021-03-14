@@ -19,3 +19,7 @@ https://www.youtube.com/watch?v=wI_pvfwcPgQ
 * Extending world map
 * randomised tiles with perlin noise
 
+### Part 4
+* Creating hud display class
+* building panel with selectable tiles
+* resources panel
