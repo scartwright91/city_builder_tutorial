@@ -14,3 +14,8 @@ https://www.youtube.com/watch?v=wI_pvfwcPgQ
 * Render as a batch
 * Render iteratively
 
+### Part 3
+* Adding camera class
+* Extending world map
+* randomised tiles with perlin noise
+
