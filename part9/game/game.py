@@ -47,8 +47,7 @@ class Game:
                 sys.exit()
             if event.type == pg.KEYDOWN:
                 if event.key == pg.K_ESCAPE:
-                    pg.quit()
-                    sys.exit()
+                    self.playing = False
 
     def update(self):
         self.camera.update()
